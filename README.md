@@ -20,9 +20,9 @@ Generative AI use cases, project lifecycle, and model pre-training
 - Discuss computational challenges during model pre-training and determine how to efficiently reduce memory footprint
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors
 
-[Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-1/Lab_1_summarize_dialogue.ipynb)
+[Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/manish8917/Generative-AI-with-LLMs/blob/main/Lab_1_summarize_dialogue.ipynb)
 
-[Week 1 quiz](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/blob/main/Week-1/Week-1_Quiz.md)
+[Week 1 quiz](https://github.com/manish8917/Generative-AI-with-LLMs/blob/main/Week-1_Quiz.md)
 
 ## Week 2
 Fine-tuning and evaluating large language models
